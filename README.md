@@ -1,7 +1,7 @@
 ## A basic Todo application written with angular 2.
 ### Run
-1. NPM install
-2. NPM start
+1. npm install
+2. npm start
 
 ### Additions to come: 
 1. Typescript / Express REST API 
